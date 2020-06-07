@@ -14,7 +14,12 @@
 
 1. 编辑 Variables.java 参数，参数说明见注释
 
-2. 运行start.bat
+2. 编译运行
+
+    ```bash
+    javac -encoding UTF-8 Main.java
+    java Main
+    ```
 
 3. 等待
 
